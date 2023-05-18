@@ -10,15 +10,19 @@ $ pkg install python
 ```
 
 ```
-$ pkg install bs4
+$ pip install requests 
 ```
 
 ```
-$ pkg install rich
+$ pip install bs4
 ```
 
 ```
-$ pkg install bash
+$ pip install rich
+```
+
+```
+$ ppi install bash
 ```
 
 ```
