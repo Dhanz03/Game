@@ -49,6 +49,6 @@ $ python Gamer1.py
 
 # Script Berbasis Mencari akun game Seperti ML,FF,PUBG,COC,Garena 
 
-# Admin Menyediakan 5 script Agar Bisa Begantian Memakay script Nya 👍
+# Admin Menyediakan 5 script Agar Bisa Bergantian Memakay script Nya 👍
 
 
